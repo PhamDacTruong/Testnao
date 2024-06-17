@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Áo thun nam",
+    "price": 250000,
+    "image": "images/product.jpg",
+    "description": [
+      "Tiện ích",
+      "Dễ sử dụng"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Quần jeans nữ",
+    "price": 350000,
+    "image": "images/product1.jpg",
+    "description": [
+      "Form dáng ôm",
+      "Chất liệu thoải mái"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Máy 2in1 Triệt Lông Laser DPL Top One+",
+    "price": 12000000,
+    "image": "images/product.jpg",
+    "description": [
+      "DPL Top One+ sử dụng 1 tay cần triệt lông và 1 tay cầm laser.",
+      {
+        "title": "Công dụng tay cầm Triệt Lông",
+        "details": [
+          "Triệt Lông toàn thân với bước sóng 640nm (body, chân, tay, nách, bikini…).",
+          "Tăng độ sáng da.",
+          "Hạn chế hiện tượng viêm lỗ chân lông, se khít lỗ chân lông.",
+          "Hỗ trợ điều trị mụn với bước sóng 530nm."
+        ]
+      }
+    ]
+  }
+]
